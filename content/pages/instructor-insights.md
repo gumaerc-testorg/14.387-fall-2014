@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 0b89cb6b-5fe2-61ef-59b2-e35d3f10a30e
 ---
@@ -57,20 +59,6 @@ None
 ### Offered
 
 This course is usually taught once a year. Up until 2014, it was taught in the spring. However, it is now taught in the fall.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with tiered seating and sliding chalkboards.]({{< resource_file bc4aff4b-7a4a-8541-4525-f7098860f387 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Lectures took place in a room with capacity for 70 students, sliding chalkboards, LCD video projector and fixed modern tables with tiered seating.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
