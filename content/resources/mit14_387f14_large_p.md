@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture and Recitation Notes
 parent_type: CourseSection
+parent_uid: ae5b9f85-e8d0-cfea-4371-8a61b26d51f3
 resourcetype: Document
 title: 14.387 F14 Big P Lecture Notes
 uid: d0354c71-c7f7-d358-4107-e9a1b2086174

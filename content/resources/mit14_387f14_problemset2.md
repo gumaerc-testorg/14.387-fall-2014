@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 01895e4a-8dbf-0138-8469-c84cd1edc5fc
 resourcetype: Document
 title: 14.387 F14 Applied Econometrics Problem Set 2
 uid: e276db66-f8fa-582e-5407-c1d846389f74

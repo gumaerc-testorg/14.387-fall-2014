@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture and Recitation Notes
 parent_type: CourseSection
+parent_uid: ae5b9f85-e8d0-cfea-4371-8a61b26d51f3
 resourcetype: Document
 title: '14.387 F14 Instrumental Variables: Constant Effects Notes'
 uid: 264048a6-a378-58cb-3d2e-98429fe51456

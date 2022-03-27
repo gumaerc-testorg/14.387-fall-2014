@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture and Recitation Notes
 parent_type: CourseSection
+parent_uid: ae5b9f85-e8d0-cfea-4371-8a61b26d51f3
 resourcetype: Document
 title: 14.387 F14 Big N Lecture Notes
 uid: 105fc1f2-7858-800c-a1b5-c78b0574a5d8

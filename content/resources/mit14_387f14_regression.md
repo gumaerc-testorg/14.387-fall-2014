@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture and Recitation Notes
 parent_type: CourseSection
+parent_uid: ae5b9f85-e8d0-cfea-4371-8a61b26d51f3
 resourcetype: Document
 title: 14.387 F14 Regression Recap Lecture Notes
 uid: 6976765d-f0bb-bae3-068d-e684d4e06a9a

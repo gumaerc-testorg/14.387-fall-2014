@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture and Recitation Notes
 parent_type: CourseSection
+parent_uid: ae5b9f85-e8d0-cfea-4371-8a61b26d51f3
 resourcetype: Document
 title: 14.387 F14 Matching Notes
 uid: 1be7883c-7453-ac02-3d76-d04c9f4765b7
