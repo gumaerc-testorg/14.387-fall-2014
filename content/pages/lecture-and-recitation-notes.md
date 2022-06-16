@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the notes used for selected lecture and recitation
+  sessions of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture and Recitation Notes
@@ -29,7 +31,7 @@ NOTES
 Topic I: Regression Recap
 {{< tdclose >}}
 {{< tdopen >}}
-[Regression Recap Notes (PDF)]({{< baseurl >}}/resources/mit14_387f14_regression)
+{{% resource_link 6976765d-f0bb-bae3-068d-e684d4e06a9a "Regression Recap Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +40,7 @@ Topic I: Regression Recap
 Topic II: Matching
 {{< tdclose >}}
 {{< tdopen >}}
-[Matching Notes (PDF)]({{< baseurl >}}/resources/mit14_387f14_matching)
+{{% resource_link 1be7883c-7453-ac02-3d76-d04c9f4765b7 "Matching Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +49,7 @@ Topic II: Matching
 Topic IV: Instrumental Variables: Constant Effects
 {{< tdclose >}}
 {{< tdopen >}}
-[Constant Effects Notes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit14_387f14_const_effects)
+{{% resource_link 264048a6-a378-58cb-3d2e-98429fe51456 "Constant Effects Notes (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +64,7 @@ Causal Effects in a Heterogeneous World
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Causal Effects Notes (PDF - 2.1MB)]({{< baseurl >}}/resources/mit14_387f14_causaleffects)
+{{% resource_link 02fdeb47-9fb5-683f-9d72-3db7b289a9d0 "Causal Effects Notes (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +79,7 @@ Topic VIII. Prediction and Confidence Intervals with a Large Number of Covariat
 {{< tdopen >}}
 
 
-[Big P Notes (PDF - 1.2MB)]({{< baseurl >}}/resources/mit14_387f14_large_p)
+{{% resource_link d0354c71-c7f7-d358-4107-e9a1b2086174 "Big P Notes (PDF - 1.2MB)" %}}
 
 
 {{< tdclose >}}
@@ -90,7 +92,7 @@ Topic X: Analysis with Large Samples Sizes ("Big N")
 {{< tdopen >}}
 
 
-[Big N Notes (PDF)]({{< baseurl >}}/resources/mit14_387f14_bign)
+{{% resource_link 105fc1f2-7858-800c-a1b5-c78b0574a5d8 "Big N Notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -122,7 +124,7 @@ NOTES
 Recitation 1: Expectations, Regression, and Controls
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 1 Notes (PDF)]({{< baseurl >}}/resources/mit14_387f14_recitation1)
+{{% resource_link a650de22-25b3-37e8-22e2-5a5d334056c7 "Recitation 1 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +133,7 @@ Recitation 1: Expectations, Regression, and Controls
 Recitation 2: Probits, Logits, and 2SLS
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 2 Notes (PDF)]({{< baseurl >}}/resources/mit14_387f14_recitation2)
+{{% resource_link dd1af9d7-468a-87a9-73fe-b52bc8467f5e "Recitation 2 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +142,7 @@ Recitation 2: Probits, Logits, and 2SLS
 Recitation 3: LATEs, Differences, and Changes
 {{< tdclose >}}
 {{< tdopen >}}
-[Recitation 3 Notes (PDF)]({{< baseurl >}}/resources/mit14_387f14_recitation3)
+{{% resource_link 896b50d2-0dd3-9f05-c48e-f8e38d7c7444 "Recitation 3 Notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
