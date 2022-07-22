@@ -6,6 +6,7 @@ file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/3b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 14.387 F14 Applied Econometrics Problem Set 3
 uid: 3b7f1a2b-2b96-f7ec-b9a5-ad8adb96661d
 ---
 This is a resource file that contains information regarding applied econometrics problem set 3.
-
