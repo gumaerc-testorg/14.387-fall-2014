@@ -49,8 +49,10 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Problem Sets"
+    "Problem Sets",
+    "Instructor Insights"
   ],
-  "site_uid": "f13564aa-1589-48f4-bdc0-419ee3fadd4e",
+  "site_uid": "e2a4b9fc-8aa6-4037-b4a9-450f309828e7",
+  "site_short_id": "14.387-fall-2014",
   "title": "Course Metadata"
 }
