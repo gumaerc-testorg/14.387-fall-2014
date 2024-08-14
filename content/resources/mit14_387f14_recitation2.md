@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding recitation
   notes 2.
 file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/dd1af9d7468a87a973feb52bc8467f5e_MIT14_387F14_Recitation2.pdf
+file_size: 283297
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
