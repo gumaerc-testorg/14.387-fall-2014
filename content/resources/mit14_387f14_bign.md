@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding big N.
 file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/105fc1f27858800ca1b5c78b0574a5d8_MIT14_387F14_BigN.pdf
+file_size: 399202
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
