@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This is a resource file that contains information regarding instrumental
   variables: constant effects notes.'
-file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/264048a6a37858cb3d2e98429fe51456_MIT14_387F14_Const_effects.pdf
+file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/264048a6a37858cb3d2e98429fe51456_MIT14_387F14_Const_effects.pdf
 file_size: 1280244
 file_type: application/pdf
 learning_resource_types: []
