@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding matching
   notes.
-file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/1be7883c7453ac023d76d04c9f4765b7_MIT14_387F14_Matching.pdf
+file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/1be7883c7453ac023d76d04c9f4765b7_MIT14_387F14_Matching.pdf
 file_size: 1086684
 file_type: application/pdf
 learning_resource_types: []
