@@ -23,7 +23,7 @@ I
 
 ### Regression Recap
 
-\[MHE\] Chapters 1–2 and 3.1–3.2.   
+\[MHE\] Chapters 1–2 and 3.1–3.2.     
 *The first two chapters explain our experimentalist perspective on applied econometrics. Chapter 3 covers regression basics and more advanced topics related to regression and matching.*
 
 ### Limited Dependent Variables and Marginal Effects
@@ -90,7 +90,7 @@ Part 1
 
 Angrist, J., and A. Krueger. "[Instrumental Variables and the Search for Identification: From Supply and Demand to Natural Experiments](http://dx.doi.org/10.1257/jep.15.4.69)." *Journal of Economic Perspectives* 15, no. 4 (2001): 69–85.
 
-Angrist., J. "[Grouped Data Estimation and Testing in Simple Labor Supply Models](http://dx.doi.org/10.1016/0304-4076(91)90101-I)." *Journal of Econometrics* 47, no. 2–3 (1991): 243–66.
+Angrist., J. "[Grouped Data Estimation and Testing in Simple Labor Supply Models](http://dx.doi.org/10.1016/0304-4076%2891%2990101-I)." *Journal of Econometrics* 47, no. 2–3 (1991): 243–66.
 
 ———. "[Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records](http://www.jstor.org/stable/2006669)." *The American Economic Review* 80, no. 3 (1990): 313–36.
 
@@ -110,7 +110,7 @@ Inoue, Atsushi, and G. Solon. "[Two-sample Instrumental Variables Estimators](ht
 
 \[MHE\] Section 4.6.4: The Bias of 2SLS.
 
-Angrist, J., G. Imbens, et al. "[Jackknife Instrumental Variables Estimation](http://dx.doi.org/10.1002/(SICI)1099-1255(199901/02)14:1\<57::AID-JAE501>3.0.CO;2-G)." *Journal of Applied Econometrics* 14, no. 1 (1999): 57–67.
+Angrist, J., G. Imbens, et al. "[Jackknife Instrumental Variables Estimation](http://dx.doi.org/10.1002/%28SICI%291099-1255%28199901/02)14:1\<57::AID-JAE501>3.0.CO;2-G)." *Journal of Applied Econometrics* 14, no. 1 (1999): 57–67.
 
 Flores-lagunes, Alfonso. "[Finite-sample Evidence of IV Estimators under Weak Instruments](http://dx.doi.org/10.1002/jae.916)." *Journal of Applied Econometrics* 22, no. 3 (2007): 677–94.
 
@@ -132,7 +132,7 @@ Imbens, G., and J. Angrist. "[Identification and Estimation of Local Average Tre
 
 Angrist, J., G. Imbens, et al. "[Identification of Causal Effects Using Instrumental Variables](http://dx.doi.org/10.1080/01621459.1996.10476902)." *Journal of the American Statistical Association* 91, no. 434 \_(\_1996): 444–55.
 
-Abadie, A. ["Bootstrap Tests for Distributional Treatment Effects in Instrumental Variables Models." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.337.3129&rep=rep1&type=pdf) *Journal of the American Statistical Association* 97, no. 457 (2002): 284–92.
+Abadie, A. ["Bootstrap Tests for Distributional Treatment Effects in Instrumental Variables Models." (PDF)](https://www.tandfonline.com/doi/pdf/10.1198/016214502753479419?casa_token=J9TlyPvyXPwAAAAA:SztYrxgTwqRlEkUC--skwRVGU7KzpY_F48toDoWT3aCmZsmK3-QNWEdcC2lvyr1lcA1HBxK0DNksvQ) *Journal of the American Statistical Association* 97, no. 457 (2002): 284–92.
 
 ———. "[Semiparametric Instrumental Variable Estimation of Treatment Response Models](http://www.sciencedirect.com/science/article/pii/S0304407602002014)." *Journal of Econometrics* 113, no. 2 (2003): 231–63.
 
@@ -226,7 +226,7 @@ VI
 
 ### Regression-discontinuity Designs
 
-*Basics*   
+*Basics*     
 \[MHE\] Chapter 6.
 
 Hahn, J., P. Todd, et al. "[Identification and Estimation of Treatment Effects with a Regression-discontinuity Design](http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00183/abstract)." *Econometrica* 69, no. 1 (2001): 201–9.
@@ -251,7 +251,7 @@ Card, D., D. Lee, et al. ["Nonlinear Policy Rules and the Identification and Est
 
 Angrist, J., and M. Rokkanen. "[Wanna Get Away? RD Identification Away from the Cutoff](http://www.nber.org/papers/w18662)." NBER Working Paper no. 18662, 2012.
 
-Dong, Y., and A. Lewbel. ["Identifying the Effect of Changing Policy Thresholds in Regression Discontinuity Models." (PDF)](https://watermark.silverchair.com/rest_a_00510.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAogwggKEBgkqhkiG9w0BBwagggJ1MIICcQIBADCCAmoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMRKslHzuk49RZXM_EAgEQgIICO0nKq5KaaiLilHc9VOazQO6HAfdF6PPJb5M3kauY86FD9I1uue0zNZRsTcJ3H7nRBO2umghLBPmKO2OOtLfXF_rhxYNyu8AUuve6VVqDojjtE0XVo7cmmQmS9J_1BjTNtjVVGpBPhtyjMx49abpL0qcIJUUylRdKTOHyL5U_yCmOLG9dxfzzPttp3TD_rEg8NJFw9evMSvmVICUkE5LktbF_dKx3jAWQJR-yXD3ImM1fqi8fKK9Dwyji0sMi06vI1ZQnCXsCJlDHmg1B_c38FPTTDtn6wjtQiDeDb9sXPGZC0KXnvsHM3fOfzJjkwWZ4Gqz8CJVFR69uBPqce7CdhanMRACZQqzkgvbnDRa2bvXbeIMAfCA7TW5LBxVDaxFpLjQrt9OVcZn9_hGUHDEaGDvPFQv_a4szW2kIPzVKTyiTXuCNz8zJTUaIfzCoPR7nvlWHxUEzKgy6BIeF7hIx_8UZqhWiUcLd86dF9445V_Oy2EeP6VND_onxlz605mz4H_TSKkuxHC5DxYQ_lPPZQZTFR3cP0-Zw_jBJIy5y_zQ93_trd8_nLUHHKdWM-Z3zTkWSogg1QT--cnMmv8rhGwAQqmMnsSiWDU3_tnz0XrWb3Zw7ZSlWK45SipNndHcyWYOG8GHpO_tv_D61ajsEOtXcSLRYHjhuC2aGXJL7oGLCQ0Zi4McyZNMikeKyiMyAV88UIj8IQbkt6_9T5x0D4RHxVDT_D5CuLnakoA3A3llHXr16GoAkX9PQyjU) Boston College Department of Economics, Mimeo, 2014. (Revised)
+Dong, Y., and A. Lewbel. ["Identifying the Effect of Changing Policy Thresholds in Regression Discontinuity Models." (PDF)](http://fmwww.bc.edu/EC-P/wp759.pdf) Boston College Department of Economics, Mimeo, 2014. (Revised)
 
 Rokkanen, M. "[Exam Schools, Ability, and the Effects of Affirmative Action: Latent Factor Extrapolation in the Regression Discontinuity Design](https://academiccommons.columbia.edu/doi/10.7916/D81J98W7)." MIT Department of Economics, Mimeo, 2013.
 
@@ -293,7 +293,7 @@ Chamberlain, G. "Panel Data." Chapter 22 in *Handbook of Econometrics*. Vol. 2. 
 
 Chesher, A., and I. Jewitt. "[The Bias of a Heteroskedasticity-consistent Covariance Matrix Estimator](http://www.jstor.org/stable/1911269)." *Econometrica* 55, no. 5 (1987): 1217–22.
 
-Moulton, Brent. "[Random Group Effects and the Precision of Regression Estimates](http://dx.doi.org/10.1016/0304-4076(86)90021-7)." *Journal of Econometrics* 32, no. 3 (1986): 385–97.
+Moulton, Brent. "[Random Group Effects and the Precision of Regression Estimates](http://dx.doi.org/10.1016/0304-4076%2886%2990021-7)." *Journal of Econometrics* 32, no. 3 (1986): 385–97.
 
 Bertrand, Marianne, Esther Duflo, et al. "[How Much Should We Trust Differences-in-Differences Estimates?](http://dx.doi.org/10.1162/003355304772839588)" *The Quarterly Journal of Economics* 119, no. 1 (2004): 249–75.
 
@@ -315,38 +315,38 @@ VIII
 
 ### Prediction with a Large Number of Covariates ("Big P")
 
-Varian, Hal R. "[Big Data: New Tricks for Econometrics](http://dx.doi.org/10.1257/jep.28.2.3)." *Journal of Economic Perspectives* 28, no. 2 (2014): 3–28.\_   
+Varian, Hal R. "[Big Data: New Tricks for Econometrics](http://dx.doi.org/10.1257/jep.28.2.3)." *Journal of Economic Perspectives* 28, no. 2 (2014): 3–28.\_     
 This reference gives a helicopter tour of various methods; we shall focus on the most useful ones.\_
 
 Chernozhukov, V., and Hansen, C. "Econometrics of High-Dimensional Sparse Models." NBER Lectures and Video Materials. Accessed June 22, 2015. [http://www.nber.org/econometric](http://www.nber.org/econometric) s\_minicourse\_2013/.
 
-Belloni, Alexandre, Victor Chernozhukov, et al. "[Inference for High-dimensional Sparse Econometric Models](http://arxiv.org/abs/1201.0220)." *Econometric Society World Congress*, 2011, arXiv preprint arXiv:1201.0220.   
+Belloni, Alexandre, Victor Chernozhukov, et al. "[Inference for High-dimensional Sparse Econometric Models](http://arxiv.org/abs/1201.0220)." *Econometric Society World Congress*, 2011, arXiv preprint arXiv:1201.0220.     
 *Treats prediction and provides uniformly valid confidence interval construction in linear models with classical errors.*
 
 ### Additional References
 
-Bickel, Peter J., Ya'acov Ritov, et al. "[Simultaneous Analysis of Lasso and Dantzig Selector](http://dx.doi.org/10.1214/08-AOS620)." *The Annals of Statistics* 37, no. 4 (2009): 1705–32.   
+Bickel, Peter J., Ya'acov Ritov, et al. "[Simultaneous Analysis of Lasso and Dantzig Selector](http://dx.doi.org/10.1214/08-AOS620)." *The Annals of Statistics* 37, no. 4 (2009): 1705–32.     
 *This is a widely cited reference giving a powerful analysis of Lasso in the Gaussian regression setting.*
 
-Candes, Emmanuel, and Terence Tao. "[The Dantzig Selector: Statistical Estimation when p is much Larger than n](http://www.jstor.org/stable/25464587)." *The Annals of Statistics* 35, no. 6 (2007): 2313–51.   
+Candes, Emmanuel, and Terence Tao. "[The Dantzig Selector: Statistical Estimation when p is much Larger than n](http://www.jstor.org/stable/25464587)." *The Annals of Statistics* 35, no. 6 (2007): 2313–51.     
 *This is a classical reference introducing the Dantzig selector, a variant of Lasso.*
 
-Leeb, Hannes, and Benedikt M. Pötscher. "[Sparse Estimators and the Oracle Property, or the Return of Hodges' Estimator](http://dx.doi.org/10.1016/j.jeconom.2007.05.017)." *Journal of Econometrics* 142, no. 1 (2008): 201–11.\_   
+Leeb, Hannes, and Benedikt M. Pötscher. "[Sparse Estimators and the Oracle Property, or the Return of Hodges' Estimator](http://dx.doi.org/10.1016/j.jeconom.2007.05.017)." *Journal of Econometrics* 142, no. 1 (2008): 201–11.\_     
 This is a quintessential reference that poses a serious criticism to "perfect model selection" and implications that are derived from it. Methods we emphasize never rely on "perfect selection" for their validity.\_
 
-Belloni, A., D. Chen, et al. "[Sparse Models and Methods for Optimal Instruments With an Application to Eminent Domain](http://dx.doi.org/10.3982/ECTA9626)." *Econometrica* 80, no. 6 (2012): 2369–429.   
+Belloni, A., D. Chen, et al. "[Sparse Models and Methods for Optimal Instruments With an Application to Eminent Domain](http://dx.doi.org/10.3982/ECTA9626)." *Econometrica* 80, no. 6 (2012): 2369–429.     
 *Prediction using Lasso and Post-Lasso with heteroscedastic, non-Gaussian data.*
 
-Belloni, Chernozhukov, Wang Belloni, et al. "[Square-root Lasso: Pivotal Recovery of Sparse Signals via Conic Programming](http://dx.doi.org/10.1093/biomet/asr043)." *Biometrika* 98, no. 4 (2011): 791–806.   
+Belloni, Chernozhukov, Wang Belloni, et al. "[Square-root Lasso: Pivotal Recovery of Sparse Signals via Conic Programming](http://dx.doi.org/10.1093/biomet/asr043)." *Biometrika* 98, no. 4 (2011): 791–806.     
 *Introduces a self-tuned Lasso.*
 
-Belloni, A., V. Chernozhukov, et al. "[Pivotal Estimation via Square-root Lasso in Nonparametric Regression](http://dx.doi.org/10.1214/14-AOS1204)." *The Annals of Statistics* 42, no. 2 (2014): 757–88.   
+Belloni, A., V. Chernozhukov, et al. "[Pivotal Estimation via Square-root Lasso in Nonparametric Regression](http://dx.doi.org/10.1214/14-AOS1204)." *The Annals of Statistics* 42, no. 2 (2014): 757–88.     
 *Extends self-tuned Lasso to heteroscedastic, non-Gaussian data.*
 
-Manresa, E. ["Estimating the Social Structure of Interactions Using Panel Data." (PDF)](http://www.hec.unil.ch/documents/seminars/deep/1281.pdf) MIT Sloan Working Paper, 2013.   
+Manresa, E. "Estimating the Social Structure of Interactions Using Panel Data." (PDF) MIT Sloan Working Paper, 2013.     
 *This paper applies modern selection methods in a panel settings to estimate spillover effects across firms.*
 
-Brodie, J., Daubechies, I., et al. "[Sparse and Stable Markowitz Portfolios](http://dx.doi.org/10.1073/pnas.0904287106)." *Proceedings of the National Academy of Sciences* *of the United States of America* 106, no. 30 (2009): 12267–72.   
+Brodie, J., Daubechies, I., et al. "[Sparse and Stable Markowitz Portfolios](http://dx.doi.org/10.1073/pnas.0904287106)." *Proceedings of the National Academy of Sciences* *of the United States of America* 106, no. 30 (2009): 12267–72.     
 *This is an important financial application to a highly practical portfolio selection problem.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -357,36 +357,36 @@ IX
 
 Chernozhukov, V., and C. Hansen. "Econometrics of High-Dimensional Sparse Models." NBER Lectures and Video Materials. Accessed June 22, 2015.  [http://www.nber.org/econometric](http://www.nber.org/econometric) s\_minicourse\_2013/.
 
-Belloni, A., V. Chernozhukov, et al. "[High-dimensional Methods and Inference on Structural and Treatment Effects](http://dx.doi.org/10.1257/jep.28.2.29)." *Journal of Economic Perspectives* 28, no. 2 (2014): 29–50.\_   
+Belloni, A., V. Chernozhukov, et al. "[High-dimensional Methods and Inference on Structural and Treatment Effects](http://dx.doi.org/10.1257/jep.28.2.29)." *Journal of Economic Perspectives* 28, no. 2 (2014): 29–50.\_     
 This is a light expository article focusing on the problem of building valid confidence bands after the model selection.\_
 
-Belloni, Alexandre, Victor Chernozhukov, et al. "[Inference for High-dimensional Sparse Econometric Models](http://arxiv.org/abs/1201.0220)." *Econometric Society World Congress*, 2011, arXiv preprint arXiv:1201.0220.   
+Belloni, Alexandre, Victor Chernozhukov, et al. "[Inference for High-dimensional Sparse Econometric Models](http://arxiv.org/abs/1201.0220)." *Econometric Society World Congress*, 2011, arXiv preprint arXiv:1201.0220.     
 *Treats prediction and provides uniformly valid confidence interval construction in linear models.*
 
-Leeb, Hannes, and Benedikt M. Pötscher. "[Model Selection and Inference: Facts and Fiction](http://www.jstor.org/stable/3533623)." *Econometric Theory* 21, no. 1 (2005): 21–59.   
+Leeb, Hannes, and Benedikt M. Pötscher. "[Model Selection and Inference: Facts and Fiction](http://www.jstor.org/stable/3533623)." *Econometric Theory* 21, no. 1 (2005): 21–59.     
 *This paper proves that naive post-model selection and post-penalizes estimators are not what they are claimed to be. We shall emphasize non-naive selection that guards against the caveats raised by LP.*
 
 ### Additional References
 
-Belloni, A., D. Chen, et al. "[Sparse Models and Methods for Optimal Instruments With an Application to Eminent Domain](http://dx.doi.org/10.3982/ECTA9626)." *Econometrica* 80, no. 6 (2012): 2369–429.\_   
+Belloni, A., D. Chen, et al. "[Sparse Models and Methods for Optimal Instruments With an Application to Eminent Domain](http://dx.doi.org/10.3982/ECTA9626)." *Econometrica* 80, no. 6 (2012): 2369–429.\_     
 Provides valid confidence intervals after a selection of many instruments.\_
 
-Belloni, A., Victor Chernozhukov, et al. "[Inference on Treatment Effects after Selection among High-dimensional Controls](http://dx.doi.org/10.1093/restud/rdt044)." *The Review of Economic Studies* 81, no. 2 (2014): 608–50. (ArXiv 2011).   
+Belloni, A., Victor Chernozhukov, et al. "[Inference on Treatment Effects after Selection among High-dimensional Controls](http://dx.doi.org/10.1093/restud/rdt044)." *The Review of Economic Studies* 81, no. 2 (2014): 608–50. (ArXiv 2011).     
 *Proposes a "double selection" approach that builds orthogonality with respect to nuisance parameters, aka double robustness, to construct confidence bands for inference on reg coefficient in a linear model with non-classical errors, confidence bands for ATE and ATE for the treated in a heterogeneous model.*
 
-Farrell, Max H. "[Robust Inference on Average Treatment Effects with Possibly More Covariates than Observations](http://dx.doi.org/10.2139/ssrn.2324292)." Chicago Booth Working Paper, 2014.\_   
+Farrell, Max H. "[Robust Inference on Average Treatment Effects with Possibly More Covariates than Observations](http://dx.doi.org/10.2139/ssrn.2324292)." Chicago Booth Working Paper, 2014.\_     
 Provides uniformly valid confidence intervals for ATE with multivalued treatments, greatly extending BCH and also relying on orthogonality.\_
 
-Kozbur, D. ["Inference in Additively Separable Models with a High Dimensional Component." (PDF)](https://arxiv.org/abs/1503.05436) Chicago Booth Working Paper, 2014.   
+Kozbur, D. ["Inference in Additively Separable Models with a High Dimensional Component." (PDF)](https://arxiv.org/abs/1503.05436) Chicago Booth Working Paper, 2014.     
 *Considers inference on average derivatives with regression having a high-dimensional nuisance component; inference relies on orthogonality.*
 
-Belloni, A., V. Chernozhukov, et al. "[Pivotal Estimation via Square-root Lasso in Nonparametric Regression](http://dx.doi.org/10.1214/14-AOS1204)." *The Annals of Statistics* 42, no. 2 (2014): 757–88.   
+Belloni, A., V. Chernozhukov, et al. "[Pivotal Estimation via Square-root Lasso in Nonparametric Regression](http://dx.doi.org/10.1214/14-AOS1204)." *The Annals of Statistics* 42, no. 2 (2014): 757–88.     
 *Confidence intervals on a low-dimensional parameter in moment condition models, with moments orthogonalized with respect to the nuisance high-dimensional parameters.*
 
-Belloni, A., V. Chernozhukov, et al. "[Uniform Post Selection Inference for Least Absolute Deviation Regression and other Z-estimation Problems](http://dx.doi.org/10.1093/biomet/asu056)." *Biometrika* 102, no. 1 (2012): 77–94 to appear in *Biometrika*.   
+Belloni, A., V. Chernozhukov, et al. "[Uniform Post Selection Inference for Least Absolute Deviation Regression and other Z-estimation Problems](http://dx.doi.org/10.1093/biomet/asu056)." *Biometrika* 102, no. 1 (2012): 77–94 to appear in *Biometrika*.     
 *Confidence intervals on a very high-dimensional parameter in moment condition models, with moments for each parameter orthogonalized with respect to other high-dimensional parameters.*
 
-Belloni, A., V. Chernozhukov, et al. "[Program Evaluation with High-dimensional Data](http://arxiv.org/abs/1311.2645)." 2013, arXiv preprint arXiv:1311.2645.\_   
+Belloni, A., V. Chernozhukov, et al. "[Program Evaluation with High-dimensional Data](http://arxiv.org/abs/1311.2645)." 2013, arXiv preprint arXiv:1311.2645.\_     
 This paper consider LATE and LQTE and other similar effects in a modern program evaluation framework where there are many controls; functional response data is allowed.\_
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -395,13 +395,13 @@ X
 
 ### Analysis with Large Sample Sizes ("Big N")
 
-Varian, Hal R. "[Big Data: New Tricks for Econometrics](http://dx.doi.org/10.1257/jep.28.2.3)." *Journal of Economic Perspectives* 28, no. 2 (2014): 3–28.   
+Varian, Hal R. "[Big Data: New Tricks for Econometrics](http://dx.doi.org/10.1257/jep.28.2.3)." *Journal of Economic Perspectives* 28, no. 2 (2014): 3–28.     
 *The reference also gives an overview of dealing with big N.*
 
-Gentzkow, M., and J. Shapiro. "Nuts and Bolts: Computing with Large Data." NBER Lecture and Videos. Accessed June 22, 2015.  [http://www.nber.org/econometric](http://www.nber.org/econometric) s\_minicourse\_2013/   
+Gentzkow, M., and J. Shapiro. "Nuts and Bolts: Computing with Large Data." NBER Lecture and Videos. Accessed June 22, 2015.  [http://www.nber.org/econometric](http://www.nber.org/econometric) s\_minicourse\_2013/     
 *This reference describes the current state of art of statistical computing with big-N data, giving rules of thumb for different value of N, as well as overview of the main principles.*
 
-Breen, Jeffrey. "R and Hadoop: Step by-step Tutorials."  Revolutions. Accessed June 22, 2015. [http://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html](http://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html).   
+Breen, Jeffrey. "R and Hadoop: Step by-step Tutorials."  Revolutions. Accessed June 22, 2015. [http://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html](http://blog.revolutionanalytics.com/2012/03/r-and-hadoop-step-by-step-tutorials.html).     
 *This is one of the ways of dealing with very large N, with many TBs of data.* *This is one of the ways of dealing with very large N, with many TBs of data.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
