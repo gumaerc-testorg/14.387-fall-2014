@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding regression
   recap notes.
-file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/6976765df0bbbae3068de684d4e06a9a_MIT14_387F14_Regression.pdf
+file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/6976765df0bbbae3068de684d4e06a9a_MIT14_387F14_Regression.pdf
 file_size: 732036
 file_type: application/pdf
 learning_resource_types: []
