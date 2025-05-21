@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding applied econometrics
   problem set 2.
-file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/e276db66f8fa582e5407c1d846389f74_MIT14_387F14_Problemset2.pdf
+file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/e276db66f8fa582e5407c1d846389f74_MIT14_387F14_Problemset2.pdf
 file_size: 223896
 file_type: application/pdf
 learning_resource_types:

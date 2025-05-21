@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding big P.
-file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/d0354c71c7f7d3584107e9a1b2086174_MIT14_387F14_large_p.pdf
+file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/d0354c71c7f7d3584107e9a1b2086174_MIT14_387F14_large_p.pdf
 file_size: 1282306
 file_type: application/pdf
 learning_resource_types: []

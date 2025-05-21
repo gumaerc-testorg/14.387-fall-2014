@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding recitation
   notes 1.
-file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/a650de2225b337e822e25a5d334056c7_MIT14_387F14_Recitation1.pdf
+file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/a650de2225b337e822e25a5d334056c7_MIT14_387F14_Recitation1.pdf
 file_size: 303302
 file_type: application/pdf
 learning_resource_types: []
