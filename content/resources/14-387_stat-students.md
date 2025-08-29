@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/99284ba87083ab34d31fb108a07a0dcd_14-387_stat-students.png
+file: /ol-ocw-studio-app/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/99284ba87083ab34d31fb108a07a0dcd_14-387_stat-students.png
 file_size: 3788
 file_type: image/png
 image_metadata:
