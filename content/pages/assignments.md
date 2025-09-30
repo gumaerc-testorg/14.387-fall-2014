@@ -20,7 +20,7 @@ ACCOMPANYING FILES
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "e276db66-f8fa-582e-5407-c1d846389f74" "Problem Set 2 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
-[IK Software](https://ideas.repec.org/c/boc/bocode/s456888.html)
+{{% resource_link "f7f6313e-2f97-4628-887f-85ef4863d341" "IK Software" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 {{% resource_link "3b7f1a2b-2b96-f7ec-b9a5-ad8adb96661d" "Problem Set 3 (PDF)" %}}
 {{< tdclose >}}{{< tdopen >}}
